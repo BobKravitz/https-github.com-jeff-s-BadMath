@@ -20,5 +20,5 @@ int main()
 
 	cout << setprecision(2) << fixed << "The average is " << a << endl;
 
-	return 0;
+	return 0; 
 }
